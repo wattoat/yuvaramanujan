@@ -1,0 +1,49 @@
+*{
+    font-family: 'Poppins', sans-serif;
+   
+}
+.main-container2 {
+    background-color: rgb(24, 24, 68);
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+.second-container2{
+    display: flex;
+    justify-content: space-evenly;
+    color: azure;
+}
+.first-heading-of-rama{
+    font-size: 20px;
+    text-align: center;
+}
+.about-rama-uinits {
+    height: 250px;
+}
+.first-heading-of-rama{
+    color: white;
+    font-size: 45px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.about-rama-uinits{
+    height: 150px;
+    background-color: rgb(27, 27, 77);
+    display: flex;
+    font-size: 20px;
+    flex-direction: column;
+    width: 250px;
+    border-radius: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+    cursor: pointer;
+    justify-content: center;
+}
+.about-rama-uinits:hover{
+    background-color: #f65a29 ;
+}
+.about-rama-uinits img{
+    width: 80px;
+    margin-bottom: 20px;
+  margin-left:88px;
+}
